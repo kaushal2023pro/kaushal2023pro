@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact **Long ago, when computers were big machines, a real bug, like a moth, got stuck in one and caused a problem. People started calling computer problems "bugs" after that!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Code With Me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://youtube.com/@rising-coders-era?si=tahldxnrnkefyl_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rising-coders-era?si=tahldxnrnkefyl_p" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCjOS_Sb5YFzOGdZjUdKP1fQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCjOS_Sb5YFzOGdZjUdKP1fQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
