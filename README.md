@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Frameworks & new technologies**
 
-- 👨‍💻 All of my projects are available at [https://kaushalmahaetjan.netlify.app](https://kaushalmahajan.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kaushalmahajan.netlify.app](https://kaushalmahajan.netlify.app)
 
 - 💬 Ask me about **react, web development**
 
 - 📫 How to reach me **mahajankaushal810@gmail.com**
 
-- 📄 Know about my experiences [https://kaushalmahaetjan.netlify.app](https://kaushalmahajan.netlify.app)
+- 📄 Know about my experiences [https://kaushalmahajan.netlify.app](https://kaushalmahajan.netlify.app)
 
 - ⚡ Fun fact **Long ago, when computers were big machines, a real bug, like a moth, got stuck in one and caused a problem. People started calling computer problems "bugs" after that!**
 
